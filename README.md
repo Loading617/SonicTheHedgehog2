@@ -1,2 +1,2 @@
 # SonicTheHedgehog2
-Sonic The Hedgehog 2 on the Web
+Sonic The Hedgehog 2 Game Ported to the Web
