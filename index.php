@@ -13,7 +13,7 @@
         <ul>
             <li>Movement and Cycle Soundtracks: Left and Right Arrow Keys</li>
             <li>Roll: Left Arrow or Right Arrows, Down Arrows</li>
-            <li>Speed Up: Hold down Left or Right Arrow Keys</li>
+            <li>Spin Dash: ASD + Down Arrows</li>
             <li>Look Up and Down and Navigate Menu: Up and Down Arrow Keys</li>
             <li>Start: Enter</li>
             <li>Jump: Spacebar</li>
