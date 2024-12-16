@@ -27,7 +27,7 @@
         </div>
     <script type="text/javascript">
         </script>
-        <script async type="text/javascript" src="sth.us.f3dex2e.js"></script>
+        <script async type="text/javascript" src="sth2.us.f3dex2e.js"></script>
         <script>
         </script>
     </body>
